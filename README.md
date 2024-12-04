@@ -105,7 +105,7 @@ task_manager/
 
 ## 👨‍👩‍👧‍👦 개발자  
 
-- [Anianim](https://github.com/Anianim.git)  
+- [Anianim](https://github.com/Anianim)  
 
 ---
 
